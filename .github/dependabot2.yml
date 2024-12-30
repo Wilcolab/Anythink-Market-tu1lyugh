@@ -1,0 +1,6 @@
+version: 2
+updates:
+  - package-ecosystem: 'golang' 
+    directory: 'backend'
+    schedule:
+      interval: 'daily'
